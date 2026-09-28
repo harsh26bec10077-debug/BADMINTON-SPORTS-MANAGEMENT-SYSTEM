@@ -186,17 +186,7 @@ The program then determines the winner based on the number of games won and upda
 * There is no graphical user interface.
 * Player and match information is not saved permanently in a file.
 
-## Future Scope
 
-The project can be improved in the future by adding:
-
-* Permanent data storage using files or a database
-* A graphical user interface
-* Player ranking system
-* Tournament management
-* More detailed match statistics
-* Login system for administrators
-* Automatic report generation
 
 ## Concepts Used
 
@@ -221,7 +211,7 @@ The project demonstrates how programming concepts can be used to solve a simple 
 
 ## Author
 
-**Name:** Harsh Pal
+**Name:** Harsh Vardhan Pal
 **Course:** Introduction to Problem Solving and Programming
 **Branch:** Electronics and Communication Engineering
 **University:** VIT Bhopal University
